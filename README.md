@@ -3,11 +3,13 @@
 
 ## 원본 웹사이트
 원본 url: https://www.samsung.com/sec/
+
 ![image](https://github.com/bora9410/pf1/assets/142555231/c46ef572-1ec4-4c7e-837e-e407d4a19994)
 
 
 ## 클론 웹사이트 스크린 샷 링크
 클론코딩페이지 url : https://bora9410.github.io/pf1/
+
 ![image](https://github.com/bora9410/pf1/assets/142555231/8b9c3255-64e9-4488-a731-51e3423ebe33)
 
 
